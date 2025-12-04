@@ -1,28 +1,28 @@
 # Webdev Shelfi Project v2
 
-Proyek ini merupakan tugas pengembangan web yang dibuat oleh Shelfi.  
-Di dalam proyek ini terdapat struktur dasar website menggunakan **HTML**, **CSS**, dan **JavaScript**.
+Proyek ini adalah tugas pengembangan website yang dikerjakan oleh Shelfi.
+Project ini memuat struktur dasar sebuah website yang dibangun menggunakan HTML, CSS, dan JavaScript.
 
-## 📌 Isi Proyek
+##  Isi Proyek
 - **index.html** — Halaman utama website
 - **style.css** — Styling untuk tampilan website
 - **script.js** — Fungsi interaktif menggunakan JavaScript
 
-## 🎯 Tujuan Proyek
-- Membuat struktur website sederhana
-- Melatih penggunaan HTML, CSS, dan JavaScript
-- Belajar menggunakan Git & GitHub untuk version control
+##  Tujuan Proyek
+- Menyusun struktur dasar sebuah website
+- Melatih keterampilan menggunakan HTML, CSS, dan JavaScript
+- Membiasakan penggunaan Git & GitHub sebagai alat version control
 
-## 🚀 Teknologi yang digunakan
+##  Teknologi yang digunakan
 - HTML
 - CSS
 - JavaScript
 - Git & GitHub
 
-## ✨ Cara Menjalankan
-1. Download atau clone repository ini
-2. Buka file `index.html` di browser
-3. Website siap dijalankan
+##  Cara Menjalankan
+1. Unduh atau lakukan clone pada repository ini
+2. Buka file index.html melalui browser
+3. Website siap untuk digunakan
 
 ---
 
