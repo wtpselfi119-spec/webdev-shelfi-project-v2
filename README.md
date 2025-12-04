@@ -1,6 +1,6 @@
 # Webdev Shelfi Project v2
 
-Proyek ini merupakan tugas pengembangan web yang dibuat oleh Tiara.  
+Proyek ini merupakan tugas pengembangan web yang dibuat oleh Shelfi.  
 Di dalam proyek ini terdapat struktur dasar website menggunakan **HTML**, **CSS**, dan **JavaScript**.
 
 ## 📌 Isi Proyek
