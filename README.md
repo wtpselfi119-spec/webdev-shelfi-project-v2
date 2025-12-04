@@ -4,9 +4,9 @@ Proyek ini adalah tugas pengembangan website yang dikerjakan oleh Shelfi.
 Project ini memuat struktur dasar sebuah website yang dibangun menggunakan HTML, CSS, dan JavaScript.
 
 ##  Isi Proyek
-- **index.html** — Halaman utama website
-- **style.css** — Styling untuk tampilan website
-- **script.js** — Fungsi interaktif menggunakan JavaScript
+- index.html — Halaman utama website
+- style.css — Styling untuk tampilan website
+- script.js — Fungsi interaktif menggunakan JavaScript
 
 ##  Tujuan Proyek
 - Menyusun struktur dasar sebuah website
