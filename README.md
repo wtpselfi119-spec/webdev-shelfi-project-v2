@@ -23,7 +23,3 @@ Project ini memuat struktur dasar sebuah website yang dibangun menggunakan HTML,
 1. Unduh atau lakukan clone pada repository ini
 2. Buka file index.html melalui browser
 3. Website siap untuk digunakan
-
----
-
-Terima kasih!
